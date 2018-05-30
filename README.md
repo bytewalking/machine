@@ -4,4 +4,4 @@
 ### 主页面
 - - -
 
-![Alt text](https://github.com/SputnikPH/machine/edit/master/README.md)
+![](https://github.com/SputnikPH/machine/tree/master/show/home.png)
