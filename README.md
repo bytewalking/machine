@@ -4,5 +4,5 @@
 ### 主页面
 - - -
 
-![picture not loaded](https://github.com/SputnikPH/machine/tree/master/show/home.png)
+![picture not loaded](https://github.com/SputnikPH/machine/blob/master/show/home.png)
 
